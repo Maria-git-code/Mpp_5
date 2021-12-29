@@ -1,0 +1,16 @@
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\bin\Debug\net5.0\lab5Ex.exe
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\bin\Debug\net5.0\lab5Ex.deps.json
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\bin\Debug\net5.0\lab5Ex.runtimeconfig.json
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\bin\Debug\net5.0\lab5Ex.runtimeconfig.dev.json
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\bin\Debug\net5.0\lab5Ex.dll
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\bin\Debug\net5.0\ref\lab5Ex.dll
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\bin\Debug\net5.0\lab5Ex.pdb
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\obj\Debug\net5.0\lab5Ex.csproj.AssemblyReference.cache
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\obj\Debug\net5.0\lab5Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\obj\Debug\net5.0\lab5Ex.AssemblyInfoInputs.cache
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\obj\Debug\net5.0\lab5Ex.AssemblyInfo.cs
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\obj\Debug\net5.0\lab5Ex.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\obj\Debug\net5.0\lab5Ex.dll
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\obj\Debug\net5.0\ref\lab5Ex.dll
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\obj\Debug\net5.0\lab5Ex.pdb
+C:\Users\Пользователь\RiderProjects\lab5\lab5Ex\obj\Debug\net5.0\lab5Ex.genruntimeconfig.cache
